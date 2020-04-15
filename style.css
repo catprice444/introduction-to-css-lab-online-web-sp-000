@@ -9,6 +9,7 @@ div {
   /* Your code here! */
   width: 700px;
   margin: auto;
+  font-family: Helvetica Neue;
 
 }
 
@@ -24,7 +25,6 @@ div {
 }
 
 /*Set the `<div>` elements:
-  - `margin` to `auto` (centers our element)
   - `font-family` to `"Helvetica Neue"`
   - `background` to `white`
   - `padding` to `30px` (creates an invisible space around the element)
