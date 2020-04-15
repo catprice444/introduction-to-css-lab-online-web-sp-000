@@ -19,14 +19,14 @@ div {
 #main-header {
   /* Your code here! */
   color:red;
+  font-size: 22px;
+  
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
   /* Your code here! */
+  font-style: italic;
 }
 
-/*Set the `<div>` elements:
-  - `padding` to `30px` (creates an invisible space around the element)
-- Set the element with the id of `#main-header` to a `font-size` of `22px`
-- Set the elements with the class of `.perspective-questions` to a `font-style` of `italic`
+
