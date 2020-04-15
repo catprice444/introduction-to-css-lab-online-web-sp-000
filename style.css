@@ -10,6 +10,8 @@ div {
   width: 700px;
   margin: auto;
   font-family: Helvetica Neue;
+  background: white;
+  
 
 }
 
@@ -25,7 +27,6 @@ div {
 }
 
 /*Set the `<div>` elements:
-  - `font-family` to `"Helvetica Neue"`
   - `background` to `white`
   - `padding` to `30px` (creates an invisible space around the element)
 - Set the element with the id of `#main-header` to a `font-size` of `22px`
